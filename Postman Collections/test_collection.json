@@ -9,7 +9,7 @@
       "name": "test",
       "item": [
         {
-          "name": "New Request",
+          "name": "red",
           "id": "b8f03d5e-f958-48a2-b721-c39f2164b930",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -22,7 +22,7 @@
           "response": []
         },
         {
-          "name": "New Request",
+          "name": "yellow",
           "id": "05773062-51b5-497b-9275-7229d86da34e",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
