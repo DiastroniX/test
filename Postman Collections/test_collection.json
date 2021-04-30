@@ -48,7 +48,7 @@
           "response": []
         },
         {
-          "name": "New Request",
+          "name": "test",
           "id": "c6a56217-4141-48c4-a408-c7d77b321828",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
